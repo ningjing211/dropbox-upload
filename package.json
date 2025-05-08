@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dropbox-stream": "^3.2.0",
+    "express": "^5.1.0"
+  }
+}
